@@ -14,7 +14,7 @@ class MyApp extends StatelessWidget {
       title: 'Breakfast App',
       debugShowCheckedModeBanner: false,
       theme: ThemeData(fontFamily: 'Poppins'),
-      home: const HomePage(),
+      home: HomePage(),
     );
   }
 }
